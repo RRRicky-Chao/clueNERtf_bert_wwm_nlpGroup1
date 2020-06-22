@@ -4,7 +4,7 @@
   
   硬件：CPU：AMD R7 3700X & GPU：MSI GeForce RTX 2070 SUPER
   
-  环境：Python 3.7 & Tensorflow 1.14
+  环境：Python 3.7 & TensorFlow 1.14
   
   主要参考：https://github.com/CLUEbenchmark/CLUENER2020
   
