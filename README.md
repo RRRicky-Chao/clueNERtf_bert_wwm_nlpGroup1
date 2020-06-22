@@ -1,10 +1,15 @@
   # CLUENER_bert_wwm_nlpGroup1
   
   自然语言处理导论第一小组期末作业。
+  
   硬件：CPU：AMD R7 3700X & GPU：MSI GeForce RTX 2070 SUPER
+  
   环境：Python 3.7 & Tensorflow 1.14
+  
   主要参考：https://github.com/CLUEbenchmark/CLUENER2020
+  
   技术报告链接：https://arxiv.org/abs/2001.04351
+  
   ```
   @article{xu2020cluener2020,
     title={CLUENER2020: Fine-grained Name Entity Recognition for Chinese},
