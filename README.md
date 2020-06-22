@@ -1,4 +1,4 @@
-  # CLUENER_bert_base_nlpGroup1
+  # CLUENER_bert_wwm_nlpGroup1
   
   自然语言处理导论第一小组期末作业。
   硬件：CPU：AMD R7 3700X & GPU：MSI GeForce RTX 2070 SUPER
@@ -15,7 +15,7 @@
   ```
   ## 运行前准备工作与文件夹说明
       
-      1. 下载[bert_wwm](https://drive.google.com/open?id=1RoTQsXp2hkQ1gSRVylRIJfQxJUgkfJMW)预训练模型，下载后置于bert_wwm文件夹下；
+      1. 下载[BERT-wwm](https://drive.google.com/open?id=1RoTQsXp2hkQ1gSRVylRIJfQxJUgkfJMW/)预训练模型，下载后置于bert_wwm文件夹下；
       
       2. 数据集已预先下载，置于data文件夹下；
       
